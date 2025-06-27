@@ -1,0 +1,5 @@
+{
+  "name": "Farmacia Digital Comunitaria",
+  "description": "Una aplicación web para gestionar pedidos de medicamentos y productos de salud para farmacias comunitarias, con roles para administradores, encargados de zona y encargados comunales.",
+  "requestFramePermissions": []
+}
